@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "emoji.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}
